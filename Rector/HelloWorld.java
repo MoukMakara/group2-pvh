@@ -1,3 +1,4 @@
+package Rector;
 abstract class Animal{
     abstract void makeSound();
 
